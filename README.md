@@ -1,0 +1,1 @@
+This is a web app that allows users to check their symptoms and receive a review of what they might be experiencing. It also provides the option to book an appointment with an available doctor and to email the results directly to the doctor after the check.
